@@ -2,7 +2,7 @@
 
 Wilayah API adalah layanan berbasis RESTful API yang menyediakan data wilayah administratif di Indonesia, seperti provinsi, kabupaten, kecamatan, dan desa. Proyek ini dirancang untuk membantu pengembang aplikasi yang memerlukan data wilayah Indonesia secara real-time dan terstruktur.
 
-Fitur Utama
+<h3>Fitur Utama</h3>
 
 Pengambilan Data Wilayah: Mendukung pencarian data berdasarkan tingkat administratif (provinsi, kabupaten, kecamatan, desa).
 
